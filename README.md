@@ -52,4 +52,4 @@ Download this respo, if you dont have git installed you can download it as ZIP f
 **Warning: Dont delete the texfile inside each folder**
 
 ## Footnote
-If there is any question please [email](j_kaixuan@live.com) me as I am probably not working at lumiled when you are reading this
+If there is any question please [email](mailto:j_kaixuan@live.com) me as I am probably not working at lumiled when you are reading this
